@@ -3,3 +3,5 @@
 
 let bool: boolean
 let falseBoolean = false
+
+let cat
